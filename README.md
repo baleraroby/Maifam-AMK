@@ -9,3 +9,5 @@ Maifam macro scripts
 * Use reasonable delay time. At least 1,5 seconds is acceptable.
 * Spamming is not encouraged.
 * Use at your own risk.
+
+----
